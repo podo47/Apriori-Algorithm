@@ -20,14 +20,21 @@ import pandas as pd
 **Part 1 : Function**
 - [x] Calculate support
 - [x] Calculate confidence
-- [x] Answer form
+- [x] Answer form - here you can change the location of output file
 - [x] Main : Apriori algorithm
 
 **Part 2 : Apriori Algorithm**
 * Input file preprocessing
   * Read input
+  ``` python
+  path = 'filename.txt'
+  ```
   * Modify input format and store in list
+  
 * Output 
+``` python
+test = Apriori() # Please enter min support and min confidence 
+```
 ## 3. Output:"output.csv"
 
 Example:
