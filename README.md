@@ -27,6 +27,7 @@ import pandas as pd
 * Input file preprocessing
   * Read input : [Input](https://github.com/podo47/Apriori-Algorithm/blob/main/input.txt)
   
+  
   ``` python
   path = 'filename.txt'
   ```
