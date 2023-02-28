@@ -39,7 +39,7 @@ test = Apriori() # Please enter min support and min confidence
 ```
 ## 3. Output:"output.csv"
 
-Example:[Output](https://github.com/podo47/Apriori-Algorithm/blob/main/output.csv)
+Example : [Output](https://github.com/podo47/Apriori-Algorithm/blob/main/output.csv)
 * min support : 0.001
 * min confidence : 0.05
 
