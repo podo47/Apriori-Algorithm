@@ -49,3 +49,13 @@ Example:
 | "{48, 170, 39}" | → | 38         | 0.9892205638474295   |
 | "{48, 110, 39}" | → | 38         | 0.9942140790742526   |
 
+## 3. Reference
+[1] Apriori Algorithm from Scratch
+
+https://www.kaggle.com/code/bismakhan08/apriori-algorithm-from-scratch/notebook
+
+[2] Apriori Algorithm from Scratch - Python
+
+http://www.vucreations.com/articles/apriori-algorithm-from-scratch-Python.html
+
+
