@@ -2,8 +2,8 @@
 
 Given a input DB, mining strong association rules from the input DB with user-defined min_supp and min_conf.
 
-- [x] User-defined min_supp
-- [x] User-defined min_conf
+- [x] User-defined min_support
+- [x] User-defined min_confidence
 
 [Click to read the code](https://github.com/podo47/AprioriAlgorithm/blob/main/Apriori_Algorithm.ipynb)
 
