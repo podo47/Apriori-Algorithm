@@ -4,6 +4,7 @@ Given a input DB, mining strong association rules from the input DB with user-de
 
 - [x] User-defined min_supp
 - [x] User-defined min_conf
+[Click to read the code]([Apriori_Algorithm.ipynb](https://github.com/podo47/Apriori-Algorithm/blob/11725ce7104d60b86da8c05899c463a850309b93/Apriori_Algorithm.ipynb))
 
 ## 1.Import library
 ``` python
@@ -34,7 +35,6 @@ import pandas as pd
 | 32              | → | 41         | 0.2107206435023406   |
 | 32              | → | 48         | 0.5297026438979363   |
 | ...             | → | ...        | ... |
-
 | "{48, 41, 38}"  | → | 39         | 0.8386689132266217   |
 | "{48, 170, 38}" | → | 39         | 0.7756827048114434   |
 | "{48, 110, 38}" | → | 39         | 0.7575312270389419   |
