@@ -4,7 +4,8 @@ Given a input DB, mining strong association rules from the input DB with user-de
 
 - [x] User-defined min_supp
 - [x] User-defined min_conf
-[Click to read the code]([Apriori_Algorithm.ipynb](https://github.com/podo47/Apriori-Algorithm/blob/11725ce7104d60b86da8c05899c463a850309b93/Apriori_Algorithm.ipynb))
+
+[Click to read the code](https://github.com/podo47/AprioriAlgorithm/blob/11725ce7104d60b86da8c05899c463a850309b93/Apriori_Algorithm.ipynb)
 
 ## 1.Import library
 ``` python
