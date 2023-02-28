@@ -5,7 +5,7 @@ Given a input DB, mining strong association rules from the input DB with user-de
 - [x] User-defined min_supp
 - [x] User-defined min_conf
 
-[Click to read the code](https://github.com/podo47/AprioriAlgorithm/blob/11725ce7104d60b86da8c05899c463a850309b93/Apriori_Algorithm.ipynb)
+[Click to read the code](https://github.com/podo47/AprioriAlgorithm/blob/main/Apriori_Algorithm.ipynb)
 
 ## 1.Import library
 ``` python
@@ -29,6 +29,11 @@ import pandas as pd
   * Modify input format and store in list
 * Output 
 ## 3. Output:"output.csv"
+
+Example:
+* min support : 0.001
+* min confidence : 0.05
+
 | Rule:left       | → | Rule:right | Confidence           |
 |-----------------|---|------------|----------------------|
 | 32              | → | 38         | 0.18678710358014108  |
