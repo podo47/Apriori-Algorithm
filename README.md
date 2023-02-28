@@ -29,6 +29,7 @@ import pandas as pd
   ``` python
   path = 'filename.txt'
   ```
+  [Input](https://github.com/podo47/Apriori-Algorithm/blob/main/input.txt)
   * Modify input format and store in list
   
 * Output 
@@ -55,6 +56,7 @@ Example:
 | "{48, 41, 39}"  | → | 38         | 0.2702959543850122   |
 | "{48, 170, 39}" | → | 38         | 0.9892205638474295   |
 | "{48, 110, 39}" | → | 38         | 0.9942140790742526   |
+[Output](https://github.com/podo47/Apriori-Algorithm/blob/main/output.csv)
 
 ## 3. Reference
 [1] Apriori Algorithm from Scratch
