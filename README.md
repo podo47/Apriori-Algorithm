@@ -25,11 +25,12 @@ import pandas as pd
 
 **Part 2 : Apriori Algorithm**
 * Input file preprocessing
-  * Read input
+  * Read input : [Input](https://github.com/podo47/Apriori-Algorithm/blob/main/input.txt)
+  
   ``` python
   path = 'filename.txt'
   ```
-  [Input](https://github.com/podo47/Apriori-Algorithm/blob/main/input.txt)
+
   * Modify input format and store in list
   
 * Output 
@@ -38,7 +39,7 @@ test = Apriori() # Please enter min support and min confidence
 ```
 ## 3. Output:"output.csv"
 
-Example:
+Example:[Output](https://github.com/podo47/Apriori-Algorithm/blob/main/output.csv)
 * min support : 0.001
 * min confidence : 0.05
 
@@ -56,7 +57,7 @@ Example:
 | "{48, 41, 39}"  | → | 38         | 0.2702959543850122   |
 | "{48, 170, 39}" | → | 38         | 0.9892205638474295   |
 | "{48, 110, 39}" | → | 38         | 0.9942140790742526   |
-[Output](https://github.com/podo47/Apriori-Algorithm/blob/main/output.csv)
+
 
 ## 3. Reference
 [1] Apriori Algorithm from Scratch
